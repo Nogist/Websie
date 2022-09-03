@@ -1,2 +1,2 @@
-# Websie
+# Website
 A portfolio 
